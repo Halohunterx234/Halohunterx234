@@ -15,7 +15,7 @@ Reminisci -> A Minecraft mod
 Spell Order -> Unity 2D Platformer
 ------------------------------------------
 2023 
-Control -> Unity 3D Puzzle Game
+Control -> Unity 3D Puzzle Game 
 Beleboggers -> Unity 3D Co-op Game
 SIP -> Simple Community POC
 Try Joy & Pain -> Unity 2D Bullet Hell Shooter Game (Main Studio Work)
